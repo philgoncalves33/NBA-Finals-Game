@@ -2,9 +2,8 @@
   "name": "NBA-Finals-game",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
   "dependencies": {
-    "nodemon": "^2.0.3",
     "readline-sync": "^1.4.10"
   },
   "scripts": {
